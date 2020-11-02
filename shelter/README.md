@@ -1,1 +1,1 @@
-# [shelter](https://anrower.github.io/shelter/pages/main)
+# [shelter](https://anrower.github.io/shelter/pages/main/)
